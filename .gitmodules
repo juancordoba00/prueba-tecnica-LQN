@@ -1,0 +1,3 @@
+[submodule "star-wars-website"]
+	path = star-wars-website
+	url = git@github.com:juancordoba00/star-wars-website.git
